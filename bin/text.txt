@@ -1,0 +1,26 @@
+push 100
+push 50
+push 20
+pop
+process
+pop
+pop
+pop
+pop
+push 140
+print
+push 234
+push 456
+pop
+print
+push 12
+push 456
+push 8090
+print
+pop
+pop
+pop
+pop
+pop
+print
+pop
